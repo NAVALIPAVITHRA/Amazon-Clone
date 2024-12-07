@@ -32,9 +32,4 @@ Implement a checkout button to proceed to the checkout process.
 
 
 Future Enhancements
-User Authentication: Implement user registration and login features.
-Payment Integration: Integrate a payment gateway to process orders.
-Admin Panel: Create an admin panel to manage products, orders, and users.
-Advanced Search: Implement advanced search filters, such as price range, category, and brand.
-Product Reviews: Allow users to add reviews and ratings to products.
-Wishlist Functionality: Allow users to save products to a wishlist.
+User Authentication: Implement user registration and login features.Payment Integration: Integrate a payment gateway to process orders.Admin Panel: Create an admin panel to manage products, orders, and users.Advanced Search: Implement advanced search filters, such as price range, category, and brand.Product Reviews: Allow users to add reviews and ratings to products.Wishlist Functionality: Allow users to save products to a wishlist.
